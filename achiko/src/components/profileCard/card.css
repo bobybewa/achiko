@@ -1,0 +1,57 @@
+.contain{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cardIon{
+    padding: 20px;
+    height :100%
+}
+
+.titleIon{
+    text-align: center
+}
+
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 81px;
+    width: 340px;
+    margin: auto;
+    text-align: center;
+    font-family: times, "Times New Roman",;
+    padding: 5px;
+    background-image: linear-gradient(to bottom right, #15172b, #5a585c);
+    border-radius:10px
+}
+
+.title {
+    color: #ffff;
+    font-size: 18px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 15px;
+    padding: 10px;
+    margin: 10px
+}
+
+.grid-container > .btnFooter {
+    background-color: #fff;
+    outline-style: none;
+    border-radius: 10px;
+    border-style: none;
+    padding: 8px;
+    font-size: 16px;
+    letter-spacing: 2px
+}
+
+.imgCard {
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 50%
+}

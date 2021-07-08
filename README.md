@@ -24,9 +24,9 @@
         "message" : "<message for user notfound>"
     }Response (200 - success)_ 
     {
-        "message" : "<message for user succes>"
+        "message" : "<message for succes>"
     }
     Response (201 - user created)_ 
     {
-        "message" : "<message for user succes created>"
+        "message" : "<message for succes created>"
     }
