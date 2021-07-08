@@ -9,6 +9,7 @@
     * React-route <br>
     * React-Redux <br>
     * Redux <br>
+    * Firebase <br>
 
 ## Global Response
     Response (500 - Internal Server Error)_ 
